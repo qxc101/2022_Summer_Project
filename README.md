@@ -1,0 +1,2 @@
+# 2022_Summer_Project
+This repo is created for training purpose. Please DO NOT share the code. To run the files, first download the data.zip from the shared link I emailed you and put the unzipped data folder into the same folder with the rest of the file. Use the file example_run.py to run the code. Note that the blackbox part is not uploaded, so comment them out before running the file. You can change the parameters in example_run.py to change dmax, datasets, and feature extraction methos. Email me if you have any questions.
